@@ -1,0 +1,23 @@
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略构建后的 NPM 包目录
+miniprogram_npm/
+
+
+# 忽略 package-lock.json 文件
+package-lock.json
+
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略日志文件
+*.log
+
+# 忽略环境变量文件
+.env
